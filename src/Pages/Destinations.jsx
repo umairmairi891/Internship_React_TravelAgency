@@ -81,7 +81,7 @@ function Destinations() {
 
       <section data-aos='fade-up' className='w-[90%] md:w-[70%] my-10 bg-slate-900  rounded-2xl  mx-auto grid grid-cols-1 md:grid-cols-4 '>
         <div className="col-span-2 ">
-          <img src='/Images/Destinations.avif' className='rounded-2xl w-full h-full object-cover' alt="" />
+          <img src='Destinations.avif' className='rounded-2xl w-full h-full object-cover' alt="" />
         </div>
         <div className=" text-white p-10 col-span-2">
           <span className='flex gap-4 items-center text-blue-400'><LocationEdit className='w-5' />Interlaken & Zermatt, Switzerland</span>

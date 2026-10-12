@@ -1,6 +1,6 @@
 export const Homedestinations=[
     {
-        img:'/Images/Paris.avif',
+        img:'Paris.avif',
         Rating:'4.9', 
         catogery:'Cultural Heritage',
         city:'Paris',
@@ -10,7 +10,7 @@ export const Homedestinations=[
         Price:'1299',
     },
     {
-        img:'/Images/Dubai.avif',
+        img:'Dubai.avif',
         Rating:'4.8', 
         catogery:'Luxury Oasis',
         city:'Dubai',
@@ -20,7 +20,7 @@ export const Homedestinations=[
         Price:'1450',
     },
     {
-        img:'/Images/Swiss.avif',
+        img:'Swiss.avif',
         Rating:'5', 
         catogery:'Alpine Wonder',
         city:'Swiss',
@@ -30,7 +30,7 @@ export const Homedestinations=[
         Price:'1890',
     },
     {
-        img:'/Images/Istanbul.avif',
+        img:'Istanbul.avif',
         Rating:'4.8', 
         catogery:'Historic Magic',
         city:'Istanbul',
@@ -40,7 +40,7 @@ export const Homedestinations=[
         Price:'980',
     },
     {
-        img:'/Images/Bali.avif',
+        img:'Bali.avif',
         Rating:'4.9', 
         catogery:'Tropical Heaven',
         city:'Bali Island',
@@ -50,7 +50,7 @@ export const Homedestinations=[
         Price:'890',
     },
     {
-        img:'/Images/Maldives.avif',
+        img:'Maldives.avif',
         Rating:'5', 
         catogery:'Ultimate Romance',
         city:'Maldives',
@@ -60,7 +60,7 @@ export const Homedestinations=[
         Price:'2490',
     },
     {
-        img:'/Images/Tolyo.avif',
+        img:'Tolyo.avif',
         Rating:'4.9', 
         catogery:'Cultural Wonder',
         city:'Tokyo',
@@ -70,7 +70,7 @@ export const Homedestinations=[
         Price:'1950',
     },
     {
-        img:'/Images/Rome.avif',
+        img:'Rome.avif',
         Rating:'4.9', 
         catogery:'La Dolce Vita',
         city:'Rome',
@@ -83,7 +83,7 @@ export const Homedestinations=[
 
 export const HomePackages=[
     {
-        img:'/Images/GlacierExpress.avif',
+        img:'GlacierExpress.avif',
         cateory:'ADVENTURE',
         off:'15%',
         duration:'7 Days / 6 Nights',
@@ -97,7 +97,7 @@ export const HomePackages=[
         price:'1899'
     },
     {
-        img:'/Images/ItalianRivera.avif',
+        img:'ItalianRivera.avif',
         cateory:'FAMILY',
         off:'15%',
         duration:'8 Days / 7 Nights',
@@ -111,7 +111,7 @@ export const HomePackages=[
         price:'2200'
     },
     {
-        img:'/Images/MaldivesParadise.avif',
+        img:'MaldivesParadise.avif',
         cateory:'HONEYMOON',
         off:'20%',
         duration:'6 Days / 5 Nights',
@@ -125,7 +125,7 @@ export const HomePackages=[
         price:'2900'
     },
     {
-        img:'/Images/DubaiDesert.avif',
+        img:'DubaiDesert.avif',
         cateory:'LUXURY',
         off:'12%',
         duration:'5 Days / 4 Nights',
@@ -139,7 +139,7 @@ export const HomePackages=[
         price:'3400'
     },
     {
-        img:'/Images/BaliBeaches.avif',
+        img:'BaliBeaches.avif',
         cateory:'BEACH',
         off:'20%',
         duration:'8 Days / 7 Nights',
@@ -153,7 +153,7 @@ export const HomePackages=[
         price:'1150'
     },
     {
-        img:'/Images/Safari.avif',
+        img:'Safari.avif',
         cateory:'WILDLIFE',
         off:'14%',
         duration:'7 Days / 6 Nights',
@@ -173,21 +173,21 @@ export const Reviews=[
     {
         rating:'5',
         review:'Our family trip through Interlaken and Zermatt was executed with absolute perfection! The hotel reservations, train passes, and private guide were top-tier. Every detail was completely stress-free.',
-        img:'/Images/Emily.avif',
+        img:'Emily.avif',
         name:'Emily Richardson',
         country:'United Kingdom'
     },
     {
         rating:'5',
         review:'"This agency turned our dream Japan trip into reality. Having an on-call concierge while navigating Kyoto made all the difference. Outstanding service and unbelievable cultural access!"',
-        img:'/Images/Marcus.avif',
+        img:'Marcus.avif',
         name:'Marcus Vance',
         country:'United States',
     },
     {
         rating:'5',
         review:"The honeymoon was pure magic from the seaplane transfer to the private sandbank candlelit dinner. We received personalized champagne on arrival and a breathtaking room upgrade!",
-        img:'/Images/Sophia.avif',
+        img:'Sophia.avif',
         name:'Sophia Lindqvist',
         country:'Sweden'
     }
@@ -195,25 +195,25 @@ export const Reviews=[
 
 export const Team=[
     {
-        img:'/Images/Alexander.avif',
+        img:'Alexander.avif',
         name:'Alexander Sterling',
         post:'Founder & Chief Executive Officer',
         description:'Former National Geographic expedition leader with over 20 years of global exploration across 85 countries.'
     },
     {
-        img:'/Images/DrEvelyn.avif',
+        img:'DrEvelyn.avif',
         name:'Dr. Evelyn Vance',
         post:'Head of Global Itineraries & Operations',
         description:'Doctorate in Cultural Anthropology; curates authentic, respectful, and sustainable local community partnerships.'
     },
     {
-        img:'/Images/Kenji.avif',
+        img:'Kenji.avif',
         name:'Kenji Takahashi',
         post:'Director of Adventure & Safaris',
         description:'Certified mountaineer and wildlife ranger with 15 years guiding extreme expeditions from Kilimanjaro to the Andes.'
     },
     {
-        img:'/Images/Isabella.avif',
+        img:'Isabella.avif',
         name:'Isabella Rossi',
         post:'VP of Customer Experience & Luxury Services',
         description:'Luxury hospitality veteran managing 24/7 global concierges to deliver flawless five-star guest journeys.'
@@ -224,7 +224,7 @@ export const Team=[
 export const gallery=[
     {
         id:'1',
-        img:'/Images/firstImage.avif',
+        img:'firstImage.avif',
         category:'BEACHES',
         location:'French Polynesia',
         title:'Turquoise Waters of Bora Bora',
@@ -232,7 +232,7 @@ export const gallery=[
     },
     {
         id:'2',
-        img:'/Images/SecondImage.avif',
+        img:'SecondImage.avif',
         category:'MOUNTAINS',
         location:'Italian Alps',
         title:'Dolomites Alpine Sunrise ',
@@ -240,7 +240,7 @@ export const gallery=[
     },
     {
         id:'3',
-        img:'/Images/ThirdImage.avif',
+        img:'ThirdImage.avif',
         category:'CITIES',
         location:'Tokyo , Japan',
         title:'Tokyo Shinjuku Neon Nightscape',
@@ -248,7 +248,7 @@ export const gallery=[
     },
     {
         id:'4',
-        img:'/Images/ForthImage.avif',
+        img:'ForthImage.avif',
         category:'WILDLIFE',
         location:'Serengeti, Tanzania',
         title:'Majestic Male Lion Resting',
@@ -256,7 +256,7 @@ export const gallery=[
     },
     {
         id:'5',
-        img:'/Images/Fifthimage.avif',
+        img:'Fifthimage.avif',
         category:'HOTELS',
         location:'Santorini, Greece',
         title:'Santorini Overwater Luxury Suite',
@@ -264,7 +264,7 @@ export const gallery=[
     },
     {
         id:'6',
-        img:'/Images/sixthImage.avif',
+        img:'sixthImage.avif',
         category:'ADVENTURE',
         location:'Cappadocia, Turkey',
         title:'Cappadocia Balloon Expedition',
@@ -272,7 +272,7 @@ export const gallery=[
     },
     {
         id:'7',
-        img:'/Images/Seventhimgae.avif',
+        img:'Seventhimgae.avif',
         category:'BEACHES',
         location:'Harbour Island, Bahamas',
         title:'Pink Sands of Bahamas',
@@ -280,7 +280,7 @@ export const gallery=[
     },
     {
         id:'8',
-        img:'/Images/Eigthimage.avif',
+        img:'Eigthimage.avif',
         category:'MOUNTAINS',
         location:'Zermatt, Switzerland',
         title:'Matterhorn Summit Reflected',
@@ -288,7 +288,7 @@ export const gallery=[
     },
     {
         id:'9',
-        img:'/Images/NineImage.avif',
+        img:'NineImage.avif',
         category:'CITIES',
         location:'Paris, France',
         title:'Effiel Tower at Twilight',
@@ -296,7 +296,7 @@ export const gallery=[
     },
     {
         id:'10',
-        img:'/Images/TenImage.avif',
+        img:'TenImage.avif',
         category:'WILDLIFE',
         location:'Maasai Mara, Kenya',
         title:'Leopard on Acacia Branch',
@@ -304,7 +304,7 @@ export const gallery=[
     },
     {
         id:'11',
-        img:'/Images/EleventhImage.avif',
+        img:'EleventhImage.avif',
         category:'HOTELS',
         location:'South Ari Atoll , Maldives',
         title:'Private Overwater Villa Haven',
@@ -312,7 +312,7 @@ export const gallery=[
     },
     {
         id:'12',
-        img:'/Images/TwelveImage.avif',
+        img:'TwelveImage.avif',
         category:'ADVENTURES',
         location:'Queenstown, New Zealand',
         title:'White Water Rafting Rapids',
@@ -320,7 +320,7 @@ export const gallery=[
     },
     {
         id:'13',
-        img:'/Images/ThirteenImagw.avif',
+        img:'ThirteenImagw.avif',
         category:'BEACHES',
         location:'Nusa Penida, Indonesia',
         title:'Kelingking Secret Beach',
@@ -328,7 +328,7 @@ export const gallery=[
     },
     {
         id:'14',
-        img:'/Images/ForteenImage.avif',
+        img:'ForteenImage.avif',
         category:'MOUNTAINS',
         location:'Yamanashi, Japan',
         title:'Mount Fuji with Cherry Blossoms',
@@ -336,7 +336,7 @@ export const gallery=[
     },
     {
         id:'15',
-        img:'/Images/FifteenImage.avif',
+        img:'FifteenImage.avif',
         category:'CITIES',
         location:'Dubai, UAE',
         title:'Burj Khalifa Architectural Marvel',
@@ -344,7 +344,7 @@ export const gallery=[
     },
     {
         id:'16',
-        img:'/Images/SixteenImage.avif',
+        img:'SixteenImage.avif',
         category:'WILDLIFE',
         location:'Chobe, Botswana',
         title:'Wild African Elephant Herd',
@@ -352,7 +352,7 @@ export const gallery=[
     },
     {
         id:'17',
-        img:'/Images/SeventeenImage.avif',
+        img:'SeventeenImage.avif',
         category:'HOTELS',
         location:'Switzerland',
         title:'Alpine Swiss Chalet Retreat',
@@ -360,7 +360,7 @@ export const gallery=[
     },
     {
         id:'18',
-        img:'/Images/EighteenImage.avif',
+        img:'EighteenImage.avif',
         category:'ADVENTURE',
         location:'Dubai, UAE',
         title:'Skydive Over Palm Jumeirah',
@@ -368,7 +368,7 @@ export const gallery=[
     },
     {
         id:'19',
-        img:'/Images/NineteenImage.avif',
+        img:'NineteenImage.avif',
         category:'BEACHES',
         location:'Koh Phi Phi, Thailand',
         title:'Maya Bay Emerald Cove',
@@ -376,7 +376,7 @@ export const gallery=[
     },
     {
         id:'20',
-        img:'/Images/TwentyImage.avif',
+        img:'TwentyImage.avif',
         category:'ADVENTURE',
         location:'Geirangerfjord, Norway',
         title:'Glacier Kayaking in Norway',
@@ -384,7 +384,7 @@ export const gallery=[
     },
     {
         id:'21',
-        img:'/Images/TwentyoneImage.avif',
+        img:'TwentyoneImage.avif',
         category:'CITIES',
         location:'Rome, Italy',
         title:'Colosseum at Golden Hour',
@@ -392,7 +392,7 @@ export const gallery=[
     },
     {
         id:'22',
-        img:'/Images/TwentytwoImage.avif',
+        img:'TwentytwoImage.avif',
         category:'ADVENTURE',
         location:'Antarctica',
         title:'Emperor Penguin Colony',
@@ -406,7 +406,7 @@ export const TESTIMONIALS= [
     name: 'Emily Richardson',
     country: 'United Kingdom',
     rating: 5,
-    customerImage: '/Images/Emily.avif',
+    customerImage: 'Emily.avif',
     tourName: 'Swiss Alps Grand Tour',
     date: 'August 2025',
     review: 'Our family trip through Interlaken and Zermatt was executed with absolute perfection! The hotel reservations, train passes, and private guide were top-tier. Every detail was completely stress-free.'
@@ -416,7 +416,7 @@ export const TESTIMONIALS= [
     name: 'Marcus Vance',
     country: 'United States',
     rating: 5,
-    customerImage: '/Images/Marcus.avif',
+    customerImage: 'Marcus.avif',
     tourName: 'Kyoto & Tokyo Discovery',
     date: 'October 2025',
     review: 'This agency turned our dream Japan trip into reality. Having an on-call concierge while navigating Kyoto made all the difference. Outstanding service and unbelievable cultural access!'
@@ -426,7 +426,7 @@ export const TESTIMONIALS= [
     name: 'Sophia Lindqvist',
     country: 'Sweden',
     rating: 5,
-    customerImage: '/Images/Sophia.avif',
+    customerImage: 'Sophia.avif',
     tourName: 'Maldives Overwater Honeymoon',
     date: 'January 2026',
     review: 'The honeymoon was pure magic from the seaplane transfer to the private sandbank candlelit dinner. We received personalized champagne on arrival and a breathtaking room upgrade!'
@@ -436,7 +436,7 @@ export const TESTIMONIALS= [
     name: 'Carlos Mendoza',
     country: 'Spain',
     rating: 5,
-    customerImage: '/Images/Carlos.avif',
+    customerImage: 'Carlos.avif',
     tourName: 'Serengeti Big 5 Safari',
     date: 'November 2025',
     review: 'Seeing the great migration with our private guide Joseph was a spiritual experience. The luxury tented lodge exceeded all expectations. We felt safe, pampered, and utterly inspired.'
@@ -446,7 +446,7 @@ export const TESTIMONIALS= [
     name: 'Amara Chen',
     country: 'Singapore',
     rating: 5,
-    customerImage: '/Images/Amara.avif',
+    customerImage: 'Amara.avif',
     tourName: 'Dubai Luxury Escape',
     date: 'December 2025',
     review: 'The 24/7 concierge was always quick to help with dinner bookings at Michelin-starred spots and private yacht charters. True 5-star standard that I will recommend to all colleagues.'
@@ -456,7 +456,7 @@ export const TESTIMONIALS= [
     name: 'David O’Connor',
     country: 'Ireland',
     rating: 5,
-    customerImage: '/Images/David.avif',
+    customerImage: 'David.avif',
     tourName: 'Amalfi Coast Tour',
     date: 'September 2025',
     review: 'Positano was spectacular. The driver navigated hairpin mountain turns with total grace and showed us hidden limoncello distilleries that regular tourists never get to see.'
@@ -466,7 +466,7 @@ export const TESTIMONIALS= [
     name: 'Natasha Romanova',
     country: 'Canada',
     rating: 5,
-    customerImage: '/Images/Natahsa.avif',
+    customerImage: 'Natahsa.avif',
     tourName: 'Bali Rainforest & Beach',
     date: 'July 2025',
     review: 'Traveling solo for the first time was daunting, but their local guides took care of everything. From sunrise yoga in Ubud to surf lessons in Canggu, I made lifelong friends.'
@@ -476,7 +476,7 @@ export const TESTIMONIALS= [
     name: 'Lukas Weber',
     country: 'Germany',
     rating: 5,
-    customerImage: '/Images/Lukas.avif',
+    customerImage: 'Lukas.avif',
     tourName: 'Cappadocia Balloon Expedition',
     date: 'May 2025',
     review: 'Everything promised in the brochure was delivered. The balloon flight at 5:30 AM over the fairy chimneys was breathtaking, and the boutique cave hotel was unforgettable.'
@@ -486,7 +486,7 @@ export const TESTIMONIALS= [
     name: 'Zainab Al-Hassan',
     country: 'United Arab Emirates',
     rating: 5,
-    customerImage: '/Images/Zainab.avif',
+    customerImage: 'Zainab.avif',
     tourName: 'Paris Romantic Week',
     date: 'February 2026',
     review: 'Booking with this agency made our anniversary extraordinary. Private museum access before public opening hours and our rooftop Eiffel Tower dinner made it memorable forever.'
@@ -496,7 +496,7 @@ export const TESTIMONIALS= [
     name: 'Henrik Larsen',
     country: 'Denmark',
     rating: 5,
-    customerImage: '/Images/Henrik.avif',
+    customerImage: 'Henrik.avif',
     tourName: 'Norwegian Fjords Voyage',
     date: 'June 2025',
     review: 'The scenery was majestic beyond words. The fjord catamaran excursions and local farm culinary stops showcased Scandinavia in the most authentic, sustainable manner.'
@@ -506,7 +506,7 @@ export const TESTIMONIALS= [
     name: 'Chloe Dubois',
     country: 'France',
     rating: 5,
-    customerImage: '/Images/Chloe.avif',
+    customerImage: 'Chloe.avif',
     tourName: 'Greek Islands Yacht Week',
     date: 'July 2025',
     review: 'From Santorini’s sunset cliffs to quiet bays in Naxos, this sailing itinerary struck the ideal balance between relaxation and exciting nightlife. Seamless logistics!'
@@ -516,7 +516,7 @@ export const TESTIMONIALS= [
     name: 'Mateo Rossi',
     country: 'Australia',
     rating: 5,
-    customerImage: '/Images/Mateo.avif',
+    customerImage: 'Mateo.avif',
     tourName: 'Patagonia Expedition',
     date: 'December 2025',
     review: 'Trekking near Grey Glacier with world-class gear and knowledgeable mountain leaders was the adventure of a lifetime. The customer support team was always responsive.'
@@ -530,7 +530,7 @@ export const BLOG_POSTS = [
     author: 'Elena Rostova',
     date: 'February 24, 2026',
     description: 'From the dramatic alpine spires of Switzerland to the secluded atolls of the Indian Ocean, discover destinations redefining luxury travel.',
-    featuredImage: '/Images/BlogFirstImage.avif',
+    featuredImage: 'BlogFirstImage.avif',
     category: 'Destinations',
     readTime: '6 min read',
     content: [
@@ -545,7 +545,7 @@ export const BLOG_POSTS = [
     author: 'Marcus Vance',
     date: 'February 18, 2026',
     description: 'Expert strategies to maximize every dollar, unlock boutique shoulder-season pricing, and secure complimentary flight & hotel upgrades.',
-    featuredImage: '/Images/BlogSecondImage.avif',
+    featuredImage: 'BlogSecondImage.avif',
     category: 'Smart Travel',
     readTime: '5 min read',
     content: [
@@ -560,7 +560,7 @@ export const BLOG_POSTS = [
     author: 'Sophia Lindqvist',
     date: 'February 10, 2026',
     description: 'Never check a bag again with our minimalist packing matrix, universal voltage rules, and essential capsule wardrobe tips.',
-    featuredImage: '/Images/BLogThirdImage.avif',
+    featuredImage: 'BLogThirdImage.avif',
     category: 'Guides',
     readTime: '4 min read',
     content: [
@@ -575,7 +575,7 @@ export const BLOG_POSTS = [
     author: 'Chloe Dubois',
     date: 'January 28, 2026',
     description: 'Intimate private islands, cliffside infinity pools, and candlelit dinners under starlit skies for newlywed couples.',
-    featuredImage: '/Images/BLogFourthimage.avif',
+    featuredImage: 'BLogFourthimage.avif',
     category: 'Romance',
     readTime: '7 min read',
     content: [
@@ -590,7 +590,7 @@ export const BLOG_POSTS = [
     author: 'Carlos Mendoza',
     date: 'January 15, 2026',
     description: 'Embrace solo journeying with proven safety protocols, solo-friendly group itineraries, and spontaneous social opportunities.',
-    featuredImage: '/Images/BlogFifthImage.avif',
+    featuredImage: 'BlogFifthImage.avif',
     category: 'Lifestyle',
     readTime: '6 min read',
     content: [
@@ -605,7 +605,7 @@ export const BLOG_POSTS = [
     author: 'Elena Rostova',
     date: 'January 05, 2026',
     description: 'Keep toddlers, teenagers, parents, and grandparents smiling with multi-generational itineraries that balance activity and relaxation.',
-    featuredImage: '/Images/BlogsixImage.avif',
+    featuredImage: 'BlogsixImage.avif',
     category: 'Family Travel',
     readTime: '5 min read',
     content: [
@@ -620,7 +620,7 @@ export const BLOG_POSTS = [
     author: 'David O’Connor',
     date: 'December 28, 2025',
     description: 'From trekking Patagonian winds to high-altitude Himalayan crossings, prepare yourself mentally and physically for the wild.',
-    featuredImage: '/Images/BlogSevenImage.avif',
+    featuredImage: 'BlogSevenImage.avif',
     category: 'Adventure',
     readTime: '6 min read',
     content: [
@@ -635,7 +635,7 @@ export const BLOG_POSTS = [
     author: 'Natasha Romanova',
     date: 'December 14, 2025',
     description: 'Uncover when each European country shines brightest, from Mediterranean summers to Central European Christmas markets.',
-    featuredImage: '/Images/BlogSevenImage.avif',
+    featuredImage: 'BlogSevenImage.avif',
     category: 'Seasons',
     readTime: '5 min read',
     content: [

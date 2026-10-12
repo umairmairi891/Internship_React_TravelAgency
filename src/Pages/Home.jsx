@@ -61,7 +61,7 @@ function Home() {
       <section data-aos="fade-up" className="about w-full  my-10">
         <div className="relative w-[95%] md:w-[75%]  rounded-xl border border-gray-400 mx-auto bg-white h-auto shadow-2xl grid grid-cols-1 md:grid-cols-2 p-10 items-center gap-10 ">
           <div className="w-full h-full ">
-            <img src="/Images/About_section_img.avif" className='w-[150%] shadow-2xl h-[100%] object-cover rounded-2xl ' alt="" />
+            <img src="About_section_img.avif" className='w-[150%] shadow-2xl h-[100%] object-cover rounded-2xl ' alt="" />
             <div className="absolute bg-sky-600 rounded-2xl p-2 md:p-4 flex left-25 md:left-80 top-47 md:top-90 items-center gap-1 md:gap-3 ">
               <h2 className='text-xl md:text-3xl font-bold text-white '>15+</h2>
               <p className='text-sm md:text-lg text-white max-w-30'>Years of Travel Excellence</p>
