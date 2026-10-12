@@ -20,7 +20,7 @@ function Home() {
 
       <div data-aos="fade-up" className="relative w-[98%]  min-h-[680px] text-center">
         <div className="absolute w-full  my-2 inset-0 z-0">
-          <img className='w-full h-full  object-cover  opacity-60   ' src="/Images/Hero_section_img.avif" alt="" />
+          <img className='w-full h-full  object-cover  opacity-60   ' src="Images/Hero_section_img.avif" alt="" />
           <div className="absolute w-full h-full inset-0 bg-gradient-to-t from-slate-950 via-slate-950/60 to-slate-950/40   "></div>
         </div>
 
